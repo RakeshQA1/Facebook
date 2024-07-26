@@ -1,0 +1,5 @@
+Facebook Function
+
+1. Create an Account 
+2. Login Username and password 
+3. Upload a page 
